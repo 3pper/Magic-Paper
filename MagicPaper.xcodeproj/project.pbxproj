@@ -13,6 +13,7 @@
 		748A7A0C2C81FD5B006E034F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 748A7A0B2C81FD5B006E034F /* Base */; };
 		748A7A0E2C81FD5D006E034F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 748A7A0D2C81FD5D006E034F /* Assets.xcassets */; };
 		748A7A112C81FD5D006E034F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 748A7A102C81FD5D006E034F /* Base */; };
+		748A7A182C81FDE3006E034F /* potter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 748A7A172C81FDE3006E034F /* potter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		748A7A0B2C81FD5B006E034F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		748A7A0D2C81FD5D006E034F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		748A7A102C81FD5D006E034F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		748A7A172C81FDE3006E034F /* potter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = potter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		748A7A032C81FD5B006E034F /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				748A7A172C81FDE3006E034F /* potter.mp4 */,
 				748A7A042C81FD5B006E034F /* AppDelegate.swift */,
 				748A7A062C81FD5B006E034F /* art.scnassets */,
 				748A7A082C81FD5B006E034F /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				748A7A072C81FD5B006E034F /* art.scnassets in Resources */,
+				748A7A182C81FDE3006E034F /* potter.mp4 in Resources */,
 				748A7A0E2C81FD5D006E034F /* Assets.xcassets in Resources */,
 				748A7A0C2C81FD5B006E034F /* Base in Resources */,
 				748A7A112C81FD5D006E034F /* Base in Resources */,
